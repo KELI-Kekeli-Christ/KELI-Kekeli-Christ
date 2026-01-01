@@ -50,9 +50,9 @@ I am an **AI Engineer** with a strong background in **Software Development**, fo
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KELI-Kekeli-Christ&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=FF6B9D&icon_color=FF6B9D&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=KELI-Kekeli-Christ&theme=radical&hide_border=false&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
+![GitHub Streak](https://streak-stats.demolab.com/?user=KELI-Kekeli-Christ&theme=radical&hide_border=false&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KELI-Kekeli-Christ&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=FF6B9D)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KELI-Kekeli-Christ&theme=radical&layout=compact&hide_border=false&bg_color=0D1117&title_color=FF6B9D)
 
 </div>
 
@@ -82,9 +82,36 @@ I am an **AI Engineer** with a strong background in **Software Development**, fo
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KELI-Kekeli-Christ&theme=redical&hide_border=false&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KELI-Kekeli-Christ&theme=radical&hide_border=false&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF)
 
 </div>
+
+---
+
+<!--
+## 🌍 Country Ranking & Top Committers
+
+<div align="center">
+
+### 📊 My Ranking Among Top Committers
+
+**🇫🇷 France:**
+[![committers.top badge - France](https://user-badge.committers.top/france/KELI-Kekeli-Christ.svg)](https://committers.top/france/KELI-Kekeli-Christ)
+
+**🇹🇬 Togo:**
+[![committers.top badge - Togo](https://user-badge.committers.top/togo/KELI-Kekeli-Christ.svg)](https://committers.top/togo/KELI-Kekeli-Christ)
+
+> **💡 Note:** Décommentez cette section quand vous serez classé dans le top des contributeurs !
+
+**📈 Vérifier votre progression :**
+- [Classement France](https://committers.top/france) - Voir le classement complet
+- [Classement Togo](https://committers.top/togo) - Voir le classement complet
+- [Tous les classements](https://committers.top) - Explorer les classements par pays
+
+</div>
+
+---
+-->
 
 ---
 
