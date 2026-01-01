@@ -14,7 +14,7 @@ I am an **AI Engineer** with a strong background in **Software Development**, fo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christ-kekeli-keli)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KELI-Kekeli-Christ)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://kelikekelichrist.vercel.app/)
 
 </div>
 
@@ -48,23 +48,14 @@ I am an **AI Engineer** with a strong background in **Software Development**, fo
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KELI-Kekeli-Christ&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=FF6B9D&icon_color=FF6B9D&bg_color=0D1117)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KELI-Kekeli-Christ&theme=radical&hide_border=false&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KELI-Kekeli-Christ&theme=radical&layout=compact&hide_border=false&bg_color=0D1117&title_color=FF6B9D)
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KELI-Kekeli-Christ&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7)
-
-</div>
 
 ---
 
@@ -144,9 +135,7 @@ I am an **AI Engineer** with a strong background in **Software Development**, fo
 
 <div align="center">
 
-### 👀 Profile Views
 
-![Profile Views](https://visitcount.itsvg.in/api?id=KELI-Kekeli-Christ&icon=0&color=0)
 
 ### ⭐ Thanks for visiting my profile!
 
